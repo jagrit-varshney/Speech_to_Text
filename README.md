@@ -5,4 +5,4 @@ Convert speech to text using Google's Speech Recognition API
 speech_recognition, pyaudio
 
 ### Flow of the code
-Importing the library, Creating object, Listening audio, Converting audio to text
+Importing the library, Creating object, Listening audio, Fetching the result
